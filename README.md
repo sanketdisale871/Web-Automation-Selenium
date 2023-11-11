@@ -1,4 +1,4 @@
-# Selenium Automation Framework
+# Web Automation Selenium Framework
 
 - Java, Selenium, TestNG
 - Maven, AssertJ, POM
